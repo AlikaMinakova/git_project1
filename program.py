@@ -14,6 +14,7 @@ def main():
 
 
     print('ffff')
+    print('fffffffff')
 
 
 if __name__ == '__main__':
