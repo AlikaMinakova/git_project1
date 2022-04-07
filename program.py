@@ -10,5 +10,11 @@ def main():
     my_superfunction()
 
 
+
+
+
+    print('ffff')
+
+
 if __name__ == '__main__':
     main()
